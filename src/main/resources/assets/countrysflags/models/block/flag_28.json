@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_vielikobritanii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_vielikobritanii",
+    "particle": "countrysflags:blocks/flagh_vielikobritanii",
+    "0": "countrysflags:blocks/flagh_vielikobritanii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

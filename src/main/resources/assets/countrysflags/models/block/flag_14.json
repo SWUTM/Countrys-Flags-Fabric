@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_kanadi",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_kanadi",
+    "particle": "countrysflags:blocks/flagh_kanadi",
+    "0": "countrysflags:blocks/flagh_kanadi",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

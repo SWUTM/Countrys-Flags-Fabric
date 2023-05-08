@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_bolghariia",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_bolghariia",
+    "particle": "countrysflags:blocks/flagh_bolghariia",
+    "0": "countrysflags:blocks/flagh_bolghariia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

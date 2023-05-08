@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flag_finlandia",
+  "textures": {
+    "all": "countrysflags:blocks/finlandia",
+    "particle": "countrysflags:blocks/finlandia",
+    "0": "countrysflags:blocks/finlandia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

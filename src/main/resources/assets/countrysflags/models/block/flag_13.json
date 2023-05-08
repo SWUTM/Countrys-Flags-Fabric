@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_italii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_italii",
+    "particle": "countrysflags:blocks/flagh_italii",
+    "0": "countrysflags:blocks/flagh_italii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

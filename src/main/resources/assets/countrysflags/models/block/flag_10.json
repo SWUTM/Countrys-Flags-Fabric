@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_irlandii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_irlandii",
+    "particle": "countrysflags:blocks/flagh_irlandii",
+    "0": "countrysflags:blocks/flagh_irlandii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_vienghriia",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_vienghriia",
+    "particle": "countrysflags:blocks/flagh_vienghriia",
+    "0": "countrysflags:blocks/flagh_vienghriia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

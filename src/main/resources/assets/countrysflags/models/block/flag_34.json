@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flag_schevechei",
+  "textures": {
+    "all": "countrysflags:blocks/schevechei",
+    "particle": "countrysflags:blocks/schevechei",
+    "0": "countrysflags:blocks/schevechei",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flag_belgia",
+  "textures": {
+    "all": "countrysflags:blocks/belgia",
+    "particle": "countrysflags:blocks/belgia",
+    "0": "countrysflags:blocks/belgia",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

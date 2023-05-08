@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_frantsii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_frantsii",
+    "particle": "countrysflags:blocks/flagh_frantsii",
+    "0": "countrysflags:blocks/flagh_frantsii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

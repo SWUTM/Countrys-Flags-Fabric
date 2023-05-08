@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_avstrii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_avstrii",
+    "particle": "countrysflags:blocks/flagh_avstrii",
+    "0": "countrysflags:blocks/flagh_avstrii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

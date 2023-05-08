@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_litva",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_latviia",
+    "particle": "countrysflags:blocks/flagh_latviia",
+    "0": "countrysflags:blocks/flagh_litva",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

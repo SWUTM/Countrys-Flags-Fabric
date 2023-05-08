@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flagh_ghruzii",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_ghruzii",
+    "particle": "countrysflags:blocks/flagh_ghruzii",
+    "0": "countrysflags:blocks/flagh_ghruzii",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

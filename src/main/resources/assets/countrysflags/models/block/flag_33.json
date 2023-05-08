@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flag_monako",
+  "textures": {
+    "all": "countrysflags:blocks/monako",
+    "particle": "countrysflags:blocks/monako",
+    "0": "countrysflags:blocks/monako",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}

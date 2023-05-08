@@ -1,0 +1,9 @@
+{
+  "parent": "countrysflags:custom/flag_belarus",
+  "textures": {
+    "all": "countrysflags:blocks/flagh_bielarusi",
+    "particle": "countrysflags:blocks/flagh_bielarusi",
+    "0": "countrysflags:blocks/flagh_bielarusi",
+    "1": "countrysflags:blocks/oak_planks"
+  }
+}
